@@ -16,11 +16,11 @@ Output is ready to copy and paste!
 
 ##### Features:
 
-\[  "name",					"input", 			"additions" ]
+\[  "name",                                      "input",                        "additions" ]
 
-* Engine Torque Curve Generator 		Metric Horsepower		Outputs torque
-* Turbocharger Pressure Curve Generator	Turbo RPM !NOT ENGINE!
-* Transmission Gear Ratio Generator		self-explanatory		Values easily usable in code and in-game
+* Engine Torque Curve Generator                Metric Horsepower               Outputs torque
+* Turbocharger Pressure Curve Generator        Turbo RPM !NOT ENGINE!
+* Transmission Gear Ratio Generator            self-explanatory                Values easily usable in code and in-game
 
 
 
