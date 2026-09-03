@@ -1,4 +1,4 @@
-# Curve Generator
+# Curve Generator 0.1.0
 
 
 
